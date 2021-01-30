@@ -1,6 +1,0 @@
-open up command prompt and paste these lines of code:
-pip install numpy
-pip install pygame
-pip install neat-python
-pip install graphviz
-pip install matplotlib
